@@ -9,9 +9,9 @@
 ## 7. Tag – 23.10.2026
 
 ### Meine Ziele
-- [] Die Ferien sind vorbei und ich bin motiviert, wieder an meiner Webseite (Portfolio) weiterzuarbeiten.
-- [] Heute möchte ich ein wenig lernen, mir das Modul 319 genauer anschauen und dazu ein paar Notizen machen.
-- [] Ich bin jetzt neu am dualbooten auf meinen laptop und ich möchte gern mein laptop einrichten fürs coden so das ich nachstes mal schneller starten kann.
+- [ ] Die Ferien sind vorbei und ich bin motiviert, wieder an meiner Webseite (Portfolio) weiterzuarbeiten.
+- [ ] Heute möchte ich ein wenig lernen, mir das Modul 319 genauer anschauen und dazu ein paar Notizen machen.
+- [ ] Ich bin jetzt neu am dualbooten auf meinen laptop und ich möchte gern mein laptop einrichten fürs coden so das ich nachstes mal schneller starten kann.
 
 ## 6. Tag – 25.09.2026
 
